@@ -1,0 +1,31 @@
+* {
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.heading{
+    color: orange;
+    font-weight: bolder;
+    margin-top: 50px;
+
+}
+
+.div{
+    text-align: center;
+
+
+}
+.div2{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.img{
+    padding: 3px;
+    margin-top: 20px;
+}
+button{
+    margin-top: 10px;
+}
+

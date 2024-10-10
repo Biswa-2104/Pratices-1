@@ -1,0 +1,39 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    background-image: url(tech.jpeg);
+    background-size: cover;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid rgb(124, 141, 141);
+    background-color:rgb(254, 255, 255);
+    padding: 55px;
+    margin: 10px;
+    border-radius: 2px;
+    margin-top: 33px;
+    gap: 15px;
+    width: 165px;
+    margin-left: 515px;
+    margin-top: 45px;
+}
+
+
+
+
+
+.input {
+    display: flex;
+
+}
+
+button {
+    color: rgb(6, 10, 14);
+    background-color: rgb(250, 190, 87);
+    width: 166px;
+    height: 26px;
+}
